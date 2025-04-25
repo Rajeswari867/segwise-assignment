@@ -1,0 +1,22 @@
+src/data/mockData.json
+[
+  {
+    "creative_id": "001",
+    "creative_name": "Creative 1",
+    "tags": ["fun", "audio"],
+    "country": "India",
+    "ad_network": "Google Ads",
+    "os": "Android",
+    "campaign": "Launch1",
+    "ad_group": "A1",
+    "ipm": 1.2,
+    "ctr": 0.5,
+    "spend": 1200,
+    "impressions": 100000,
+    "clicks": 500,
+    "cpm": 12,
+    "cost_per_click": 2.4,
+    "cost_per_install": 3.2,
+    "installs": 375
+  }
+]

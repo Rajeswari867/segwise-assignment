@@ -1,0 +1,3 @@
+npx create-react-app segwise-assignment --template typescript
+cd segwise-assignment
+npm install
